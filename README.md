@@ -1,8 +1,7 @@
 # StrataScratch
-Collection of short Data Science Projects from StrataScratch --> [Link](https://www.stratascratch.com/)
+Collection of short Data Science Projects from [StrataScratch](https://www.stratascratch.com/)
 
-## 23andMe_project
-[Link](https://platform.stratascratch.com/data-projects/sales-data-analysis)
+## 23andMe_project [(Link)](https://platform.stratascratch.com/data-projects/sales-data-analysis)
 - Plot daily sales for all 50 weeks.
 - It looks like there has been a sudden change in daily sales. What date did it occur?
 - Is the change in daily sales at the date you selected statistically significant? If so, what is the p-value?
